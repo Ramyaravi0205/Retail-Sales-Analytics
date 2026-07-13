@@ -69,6 +69,17 @@ Provides a high-level summary of key business metrics including Total Sales, Rev
 
 ## 📚 Conclusion
 
-This Power BI dashboard transforms retail sales data into meaningful business insights, helping stakeholders monitor performance, understand customer behavior, and make informed strategic decisions through interactive and visually engaging reports. 
+This Power BI dashboard transforms retail sales data into meaningful business insights, helping stakeholders monitor performance, understand customer behavior, and make informed strategic decisions through interactive and visually engaging reports.
+
+<img width="937" height="522" alt="Screenshot (167)" src="https://github.com/user-attachments/assets/5a524b31-8c44-4af0-b5ab-b36d6d349b7a" />
+<img width="938" height="527" alt="Screenshot (166)" src="https://github.com/user-attachments/assets/0cabbe52-ce37-4f8d-9952-4afaad7f0ab0" />
+<img width="1099" height="616" alt="WhatsApp Image 2026-06-11 at 5 54 27 PM (2)" src="https://github.com/user-attachments/assets/2842917f-97f7-4bf0-b9a4-fd1e7e7b0d46" />
+<img width="936" height="527" alt="Screenshot (165)" src="https://github.com/user-attachments/assets/0fc7ded5-4eda-4e51-8969-af465c9c8d07" />
+<img width="1097" height="615" alt="last" src="https://github.com/user-attachments/assets/37b86f9b-c158-4364-9678-d90dd6fc437c" />
+
+
+
+
+
 
 
